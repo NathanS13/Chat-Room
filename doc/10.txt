@@ -1,0 +1,28 @@
+590
+589
+589
+590
+590
+86
+86
+87
+87
+582
+79
+79
+583
+584
+584
+81
+81
+577
+578
+577
+74
+74
+74
+74
+578
+Total Messages sent: 25
+Sum of Message Time: 8553.0
+Average Message Receive time: 0.34 seconds
